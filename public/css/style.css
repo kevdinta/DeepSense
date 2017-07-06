@@ -1,8 +1,28 @@
 .slider {
-    max-width: 100% !important;
-    height:auto !important;
     margin-top: 2.5%;
 }
+.flexslider {
+    width: 100%;
+}
+#contact {
+    padding-right: 2%;
+    border-right:2px dashed #dadada;
+}
+ #map {
+     height: 300px;
+     width: 100%;
+ }
+.contact {
+    border: 1px solid #333333;
+    border-radius: 8px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    z-index: 2;
+}
+#bg-contact {
+    background:url("../img/arbre.jpg") no-repeat;
+}
+
 .small-logo {
     width: 50px;
 }
@@ -14,9 +34,6 @@
     font-size: 24px;
     text-align: center;
     height: 100px;
-}
-.navbar-collapse collapse navbar-inverse {
-    position:fixed !important;
 }
 .navbar-collapse.collapse {
     position:fixed;

@@ -3,15 +3,19 @@
  */
 $('.container').hide();
 $('.footer').hide();
+
 $(window).on('load', function() {
     $('.flexslider').flexslider({
         animation: "slide",
         controlNav: "thumbnails"
     })
-
     $('.flexslider').ready(function(){
-        $('.container').show();
-        $('.footer').show();
+        $('#home').show();
+
     })
-    $('.load').hide();
+    $('.footer').show();
+    $(document).ready(function () {
+        $('.load').hide();
+    })
 });
+

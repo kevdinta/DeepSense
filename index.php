@@ -45,7 +45,7 @@
     <div class="load">
         <i class="fa fa-spinner fa-spin" style="font-size:200px"></i>
     </div>
-    <div class="container">
+    <div class="container" id="home">
         <div class="row">
             <div class="col-lg-12">
                 <h1>Deep Sense, le jeu de plateforme réalisé sur Unity</h1>
