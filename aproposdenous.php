@@ -16,10 +16,16 @@
 <div class="load">
     <i class="fa fa-spinner fa-spin" style="font-size:200px"></i>
 </div>
+<img class="img_pr" src="https://scontent-mrs1-1.xx.fbcdn.net/v/t31.0-8/17880439_1364662913591469_2772384027745032482_o.jpg?oh=15a6cc23f75cc1ab32842dcf786cde1c&oe=59F5AFBB">
+<div id="descriptionPr">
+    <!-- <h1>Notre belle équipe de bras cassés !</h1> -->
+</div>
 <div class="container-fluid">
     <div class="row">
         <div class="col-lg-12 presentation">
-            <h1>Présentation de l'équipe</h1>
+            <h1 style="text-align: left;">Présentation de l'équipe</h1>
+            <hr>
+            <p>Nous sommmes une équipe de 11 personnes, plutôt variée concernant les compétences, on a des graphistes, des personnes qui travaillent dans le son, d'autres dans la programmation... Laissons place à leur présentation !</p>
         </div>
     </div>
 </div>

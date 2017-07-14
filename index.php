@@ -24,21 +24,21 @@
     <?php include('views/menu.php') ?>
     <div class="flexslider">
         <ul class="slides">
-            <li data-thumb="https://i.ytimg.com/vi/gMihptkaWg0/maxresdefault.jpg" data-thumb-alt="My thumbnail image alt attribute">
-                <img src="https://i.ytimg.com/vi/gMihptkaWg0/maxresdefault.jpg" alt="arbre" title="arbre" class="slider" />
-                <p class="flex-caption">Adventurer Cheesecake Brownie</p>
+            <li>
+                <img src="http://azvirt.com/uploads/gallery/bayraq/08.jpg" alt="arbre" title="arbre" class="slider" />
+               <!-- <p class="flex-caption">Le site est adapté pour n'importe quelle résolution.</p> -->
             </li>
-            <li data-thumb="http://animals.sandiegozoo.org/sites/default/files/2016-10/animals_hero_fennec2.jpg" data-thumb-alt="My thumbnail image alt attribute">
-                <img src="http://animals.sandiegozoo.org/sites/default/files/2016-10/animals_hero_fennec2.jpg" alt="branches" title="branches" class="slider"/>
-                <p class="flex-caption">Adventurer Cheesecake Brownie</p>
+            <li>
+                <img src="http://www.lucasmassagetherapy.com/wp-content/uploads/2016/03/Flexspace-exterior-2.jpg" alt="branches" title="branches" class="slider"/>
+                <!-- <p class="flex-caption">Le site est adapté pour n'importe quelle résolution.</p> -->
             </li>
-            <li data-thumb="http://animals.sandiegozoo.org/sites/default/files/2016-10/animals_hero_acacia.jpg" data-thumb-alt="My thumbnail image alt attribute">
-                <img src="http://animals.sandiegozoo.org/sites/default/files/2016-10/animals_hero_acacia.jpg" alt="image4" title="image4" class="slider" />
-                <p class="flex-caption">Adventurer Cheesecake Brownie</p>
+            <li>
+                <img src="http://www.explor8ion.com/sites/default/files/images/hikes/tent-mountain/tent-mtn-016.jpg" alt="image4" title="image4" class="slider" />
+                <!-- <p class="flex-caption">Le site est adapté pour n'importe quelle résolution.</p> -->
             </li>
-            <li data-thumb="https://wallpaperhdzone.com/wp-content/uploads/2016/08/baby-animal-wallpaper-HD3.jpg" data-thumb-alt="My thumbnail image alt attribute">
-                <img src="https://wallpaperhdzone.com/wp-content/uploads/2016/08/baby-animal-wallpaper-HD3.jpg" alt="image5" title="image5" class="slider" />
-                <p class="flex-caption">Adventurer Cheesecake Brownie</p>
+            <li>
+                <img src="http://www.kaempf-gartenbauag.ch/wp-content/uploads/2016/06/wasser-im-garten-header-1.jpg" alt="image5" title="image5" class="slider" />
+                <!-- <p class="flex-caption">Le site est adapté pour n'importe quelle résolution.</p> -->
             </li>
         </ul>
     </div>
@@ -73,6 +73,27 @@
             </div>
             <div class="col-lg-4">
                 <img src="public/img/arbre.jpg" class="img-circle img-responsive" alt="apercu du jeu" title="apercu du jeu"/>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <h1>Restez connecté, sur n'importe quel terminal</h1>
+                <hr>
+                <div class="col-lg-6">
+                    <img src="public/img/mockup_tablet.jpg" class="img-responsive img-thumbnail">
+                </div>
+                <div class="col-lg-6">
+                    <p>Que vous soyez sur tablette, iPhone, Android, Windows, le site s'adapte sans problème. Nous prenons soin de travailler sur l'ergonomie afinn de faciliter la navigation de notre utilisateur.</p>
+                    <p>Où que vous soyez, vous pouvez aller sur le site sans problème ! :)</p>
+                    <p>Nunc nisi metus, imperdiet rutrum diam et, iaculis dignissim nisl. Duis hendrerit felis vel ex pulvinar scelerisque. Aenean volutpat quam id facilisis condimentum. Praesent a molestie magna. Morbi quis lectus faucibus, facilisis odio id, egestas nunc. Phasellus ac neque mauris. Fusce sed fringilla ipsum, cursus pharetra augue. Integer sodales sollicitudin tincidunt. Vestibulum consequat hendrerit metus ac tristique. Donec augue nulla, ullamcorper nec varius consectetur, volutpat ut augue. Nullam varius consequat ex, vel consequat tortor laoreet quis. Quisque venenatis ornare consequat. Fusce turpis metus, posuere sed euismod in, varius sed magna. Donec feugiat sit amet felis non aliquet.</p>
+                </div>
             </div>
         </div>
         <!-- Service block -->

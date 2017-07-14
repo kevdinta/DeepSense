@@ -22,7 +22,10 @@
 #formulaire {
     background:url("http://bgwall.net/wp-content/uploads/2014/09/eiffel-tower-landscape-tumblr-wallpaper.jpg") no-repeat;
 }
-
+.flexslider .slides img {
+    width: 99.8%;
+    height: auto;
+}
 .small-logo {
     width: 50px;
 }
@@ -148,5 +151,17 @@ div.desc {
 /* A propos de nous */
 
 .presentation {
-    margin-top:5%;
+}
+.img_pr {
+    width: 100%;
+}
+#descriptionPr {
+    z-index: 100;
+    position: absolute;
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: bold;
+    left: 25%;
+    top: 25%;
+    font-family: Impact, Charcoal, sans-serif;
 }
