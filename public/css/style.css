@@ -144,3 +144,9 @@ div.desc {
     padding-bottom: 1%;
     opacity: 0.95;
 }
+
+/* A propos de nous */
+
+.presentation {
+    margin-top:5%;
+}
