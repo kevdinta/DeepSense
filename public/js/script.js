@@ -22,3 +22,4 @@ $(document).ready(function(){
     $(".footer").delay(1000).fadeIn(300);
     $(".container").delay(1000).fadeIn(300);
 });
+

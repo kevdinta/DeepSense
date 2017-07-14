@@ -57,8 +57,8 @@
                         <div id="map"></div>
                         <br>
                         <div>
-                            <p>Adresse : </p>
-                            <p>Code postal : </p>
+                            <p><i class="fa fa-map-marker fa-lg"></i> 133 Rue Marius Berliet, 69008 Lyon </p>
+                            <p><i class="fa fa-envelope-o fa-lg"></i><a href="mailto:wolpertinger.game@gmail.com"> wolpertinger.game@gmail.com</a> </p>
                         </div>
                     </div>
                 </div>
