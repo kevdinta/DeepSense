@@ -18,10 +18,11 @@
         <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">Média<span class="caret"></span></a>
             <ul class="dropdown-menu">
-                <li><a href="#">Galerie photo</a></li>
+                <li><a href="galerie.php">Galerie photo</a></li>
                 <li><a href="#">Vidéo</a></li>
             </ul>
         </li>
+        <li><a href="#">Supportez-nous</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
         <li><a href="contact.php"><span class="glyphicon glyphicon-user"></span> Contact</a></li>
