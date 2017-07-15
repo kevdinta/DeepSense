@@ -26,6 +26,102 @@
             <h1 style="text-align: left;">Présentation de l'équipe</h1>
             <hr>
             <p>Nous sommmes une équipe de 11 personnes, plutôt variée concernant les compétences, on a des graphistes, des personnes qui travaillent dans le son, d'autres dans la programmation... Laissons place à leur présentation !</p>
+            <div class="card">
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%;">
+                <div class="containerCard avant">
+                    <h4><b>Valentin Duroussin</b></h4>
+                    <p>Chef de projet</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%;">
+                <div class="containerCard">
+                    <h4><b>Valentin Duroussin</b></h4>
+                    <p>Chef de projet</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%;">
+                <div class="containerCard">
+                    <h4><b>Valentin Duroussin</b></h4>
+                    <p>Chef de projet</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%;">
+                <div class="containerCard">
+                    <h4><b>Valentin Duroussin</b></h4>
+                    <p>Chef de projet</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%;">
+                <div class="containerCard">
+                    <h4><b>Valentin Duroussin</b></h4>
+                    <p>Chef de projet</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%;">
+                <div class="containerCard">
+                    <h4><b>Valentin Duroussin</b></h4>
+                    <p>Chef de projet</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%;">
+                <div class="containerCard">
+                    <h4><b>Valentin Duroussin</b></h4>
+                    <p>Chef de projet</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%;">
+                <div class="containerCard">
+                    <h4><b>Valentin Duroussin</b></h4>
+                    <p>Chef de projet</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%;">
+                <div class="containerCard">
+                    <h4><b>Valentin Duroussin</b></h4>
+                    <p>Chef de projet</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%;">
+                <div class="containerCard">
+                    <h4><b>Valentin Duroussin</b></h4>
+                    <p>Chef de projet</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" style="width:100%;">
+                <div class="containerCard">
+                    <h4><b>Valentin Duroussin</b></h4>
+                    <p>Chef de projet</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="margin-top: 5%; margin-bottom: 5%;">
+        <div class="col-lg-6">
+            <h1 style="text-align: left;">Nos services</h1>
+            <hr>
+            <p>Suspendisse potenti. Sed laoreet congue orci, quis cursus nibh porttitor sit amet. Phasellus arcu nulla, pulvinar ut leo id, varius mattis diam. Quisque suscipit efficitur tincidunt. Morbi egestas eros aliquam est cursus eleifend. Fusce ipsum ipsum, facilisis nec orci non, dictum euismod leo. Praesent pretium ornare sem, sit amet pulvinar mi convallis non. Praesent ut eleifend urna, a elementum libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquam nec augue sed molestie. Nam id consectetur dui. Vivamus dapibus erat quam, vel congue nunc gravida sit amet.</p>
+            <div class="col-lg-4">
+                <img src="http://deepsensegame.com/ext/images/13.jpg" class="img-responsive img-thumbnail" alt="oniro" title="oniro"/>
+            </div>
+            <div class="col-lg-4">
+                <img src="http://deepsensegame.com/ext/images/13.jpg" class="img-responsive img-thumbnail" alt="oniro" title="oniro"/>
+            </div>
+            <div class="col-lg-4">
+                <img src="http://deepsensegame.com/ext/images/13.jpg" class="img-responsive img-thumbnail" alt="oniro" title="oniro"/>
+            </div>
+        </div>
+        <div class="col-lg-6">
+
         </div>
     </div>
 </div>
