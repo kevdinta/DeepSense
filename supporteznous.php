@@ -58,7 +58,7 @@
                 <h2>On est aussi sur Discord !</h2>
                 <hr>
                 <p>Venez, on peut parler, jouer si vous voulez.</p>
-                <a href="https://discord.gg/Jb67G3e"><img src="https://www.comptoirsecu.fr/wp-content/uploads/2017/03/discord.png"></a>
+                <a href="https://discord.gg/Jb67G3e"><img src="https://upload.wikimedia.org/wikipedia/fr/c/cb/Discord_logo_violet.png"></a>
                 <br>
                 <br>
             </div>

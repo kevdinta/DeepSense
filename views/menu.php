@@ -28,6 +28,6 @@ $page = str_replace("/deepsense/", "",$page);
     </ul>
     <ul class="nav navbar-nav navbar-right">
         <li><a href="contact.php"><span class="glyphicon glyphicon-user"></span> Contact</a></li>
-        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+        <li><a href="#" id="login"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
     </ul>
 </div>

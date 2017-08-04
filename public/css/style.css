@@ -190,3 +190,6 @@ div.desc {
     padding: 2px 16px;
     margin-bottom: 5%;
 }
+#login:hover {
+    cursor: not-allowed;
+}
